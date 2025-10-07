@@ -1,4 +1,4 @@
-# Confiô, Dançou! 🎲
+# Confiô, Dançou! 
 
 **Um jogo de estratégia social, confiança e traição para 5 a 10 jogadores, baseado no clássico Dilema do Prisioneiro da Teoria dos Jogos.**
 
